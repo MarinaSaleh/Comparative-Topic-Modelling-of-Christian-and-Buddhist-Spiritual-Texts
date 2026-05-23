@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        <fileDesc>
+            
+            <titleStmt>
+                <title>John 21:18 TEI Sample</title>
+            </titleStmt>
+            
+            <publicationStmt>
+                <p>Digital Humanities Student Project</p>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <p>Biblical passage from the Gospel of John (KJV translation).</p>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div type="biblical_passage">
+                
+                <head>John 21:18</head>
+                
+                <lg type="verse">
+                    
+                    <l>Verily, verily, I say unto thee,</l>
+                    
+                    <l>When thou wast young, thou girdedst thyself,</l>
+                    
+                    <l>and walkedst whither thou wouldest:</l>
+                    
+                    <l>but when thou shalt be old,</l>
+                    
+                    <l>thou shalt stretch forth thy hands,</l>
+                    
+                    <l>and another shall gird thee,</l>
+                    
+                    <l>and carry thee whither thou wouldest not.</l>
+                    
+                </lg>
+                
+            </div>
+            
+        </body>
+    </text>
+    
+</TEI>
